@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Ho creato il Main!!!</h2>
+        <h2>Ho creato il Main!!!!!!!</h2>
 
     </div>
 </template>
