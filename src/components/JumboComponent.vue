@@ -14,5 +14,7 @@
 </script>
 
 <style lang="scss" scoped>
-
+img{
+    width: 1000px;
+}
 </style>
